@@ -162,4 +162,3 @@ def process_blob_storage():
 
 process_blob_storage()
 
-
